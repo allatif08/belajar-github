@@ -3,9 +3,11 @@ rencana konten
 - javascript
   * ES6
   * framework javascript
-   ^ angular
-   ^ react
+   ^ vue
+   ^ reackt
+  - struktur data dasar
 - php framework
-- laravel
+  ^ laravel
 - interview
 - vlogs
+- python
